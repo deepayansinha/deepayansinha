@@ -1,5 +1,4 @@
 ## 👋 About Me
-## 👋 About Me
 
 19-year-old developer from India with an obsession for creating intelligent systems.
 
