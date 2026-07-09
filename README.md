@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Full+Stack+Developer;Computer+Vision+Enthusiast;Generative+AI+Explorer;Always+Learning+Something+New" />
+<img src="https://media.tenor.com/0vM4gNf5hQAAAAAC/black-cat-anime.gif" width="100%">
 </p>
 
 ---
@@ -18,7 +18,7 @@ Currently pursuing the journey toward becoming an
 
 Outside of programming, I express creativity as a **music artist, sketch artist, and poet**.
 
-I also lead **DXL Organization**, a Discord community composed of **20 gaming clubs**, where I manage development, branding, events, and community operations.
+I also lead **DXL Organization**, a Discord community composed of **20 gaming clubs and 500 members**, where I manage development, branding, events, and community operations.
 ---
 
 ## 🌐 Connect With Me
