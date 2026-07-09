@@ -1,11 +1,8 @@
 ## 👋 About Me
 19-year-old developer from India with an obsession for creating intelligent systems.
-Currently pursuing the journey toward becoming an
-
-> **AI Engineer • LLM Engineer • MLOps Engineer • Data Scientist • Computer Vision Engineer**
-
+Currently pursuing the journey toward 
+ **AI Engineer • LLM Engineer • MLOps Engineer • Data Scientist • Computer Vision Engineer**
 Outside of programming, I express creativity as a **music artist, sketch artist, and poet**.
-
 I also lead **DXL Organization**, a Discord community composed of **20 gaming clubs and 500 members**, where I manage development, branding, events, and community operations.
 ---
 ## 💻 Tech Stack
