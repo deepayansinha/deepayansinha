@@ -8,15 +8,17 @@
 </p>
 
 ---
-
 ## 👋 About Me
 
-🎓 B.Tech CSE (AI & ML) Student  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI  
-🌐 Building modern web applications and AI-powered systems  
-🚀 Goal: Become an AI/ML Engineer by graduation  
-🎮 Founder & Leader of **DXL Organization** (500+ member gaming community)
+19-year-old developer from India with an obsession for creating intelligent systems.
 
+Currently pursuing the journey toward becoming an
+
+> **AI Engineer • LLM Engineer • MLOps Engineer • Data Scientist • Computer Vision Engineer**
+
+Outside of programming, I express creativity as a **music artist, sketch artist, and poet**.
+
+I also lead **DXL Organization**, a Discord community composed of **20 gaming clubs**, where I manage development, branding, events, and community operations.
 ---
 
 ## 🌐 Connect With Me
@@ -32,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,nodejs,express,fastapi,flask,django,spring,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,tensorflow,pytorch,opencv,sklearn,keras,numpy,pandas,matplotlib,arduino,raspberrypi,blender,flutter,dart&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,nodejs,express,flask,django,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,opencv,sklearn,arduino,raspberrypi,blender,flutter,dart,ai,ps,pr,ae&perline=10" />
 
 </div>
 ---
@@ -83,17 +85,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepayansinha/deepayansinha/output/snake.svg" alt="Snake animation" />
 </p>
-
----
-
-## ☕ Fun Facts
-
-- 🎮 Built and managed a organization with **20 clubs**
-- 🤖 Love combining AI with real-world applications
-- 🌌 Big fan of aesthetic UI/UX and animated websites
-- 🚀 Believe consistency beats talent in the long run
-
----
 
 ## 💬 Random Dev Quote
 
