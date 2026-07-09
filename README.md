@@ -34,7 +34,7 @@ I also lead **DXL Organization**, a Discord community composed of **20 gaming cl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,nodejs,express,fastapi,flask,django,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,opencv,sklearn,anaconda,ubuntu,latex,selenium,flutter,dart&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,nodejs,express,fastapi,flask,django,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,opencv,sklearn,anaconda,ubuntu,latex,selenium,flutter,dart,nginx,powershell,npm,yarn,regex,md,discord,cloudflare&perline=10" />
 
 </div>
 ---
