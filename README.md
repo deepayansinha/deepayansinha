@@ -22,21 +22,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:YOUR_EMAIL"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/deepayansinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://linkedin.com/in/deepayan-sinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:necrom106@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,flask,django,spring,bootstrap,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,git,github,gitlab,linux,bash,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,tensorflow,pytorch,opencv,sklearn,keras,numpy,pandas,matplotlib,arduino,raspberrypi,blender&perline=10)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,nodejs,express,fastapi,flask,django,spring,mysql,postgres,mongodb,sqlite,firebase,supabase,redis,docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab,vscode,visualstudio,idea,pycharm,androidstudio,figma,postman,tensorflow,pytorch,opencv,sklearn,keras,numpy,pandas,matplotlib,arduino,raspberrypi,blender,flutter,dart&perline=10" />
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -51,38 +49,15 @@
 | 🚂 **HSR Club Website** | Animated Honkai Star Rail community website |
 
 ---
-
-## 📚 Currently Learning
-
-- 🤖 LLM Engineering
-- 🔥 Fine-Tuning & RAG
-- 👁️ Computer Vision
-- ☁️ Cloud & MLOps
-- 🐳 Docker & Kubernetes
-- 📊 Data Engineering
-
----
-
-## 🎯 4-Year AI Engineer Roadmap
-
-\`\`\`text
-Year 1  ██████░░░░░░░░░░░░  30%
-Year 2  ██████████░░░░░░░░  55%
-Year 3  ██████████████░░░░  80%
-Year 4  ██████████████████ 100%
-\`\`\`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepayansinha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepayansinha&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepayansinha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +65,7 @@ Year 4  ██████████████████ 100%
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepayansinha&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -98,7 +73,7 @@ Year 4  ██████████████████ 100%
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepayansinha&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -106,7 +81,7 @@ Year 4  ██████████████████ 100%
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/deepayansinha/deepayansinha/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -131,7 +106,7 @@ Year 4  ██████████████████ 100%
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=deepayansinha&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 </p>
 
 ---
