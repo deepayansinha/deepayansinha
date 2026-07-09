@@ -8,15 +8,6 @@ Outside of programming, I express creativity as a **music artist, sketch artist,
 
 I also lead **DXL Organization**, a Discord community composed of **20 gaming clubs and 500 members**, where I manage development, branding, events, and community operations.
 ---
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/deepayansinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="https://linkedin.com/in/deepayan-sinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:necrom106@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
-
----
 ## 💻 Tech Stack
 
 <div align="center">
@@ -25,7 +16,13 @@ I also lead **DXL Organization**, a Discord community composed of **20 gaming cl
 
 </div>
 ---
+## 🌐 Connect With Me
 
+<p align="left">
+<a href="https://github.com/deepayansinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://linkedin.com/in/deepayan-sinha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:necrom106@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 ## 🚀 Featured Projects
 
 | Project | Description |
